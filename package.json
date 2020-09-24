@@ -1,0 +1,19 @@
+{
+  "name": "udt-dataset-coco",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:UniversalDataTool/udt-dataset-coco.git",
+  "author": "seveibar <seveibar@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava tests/**/*.test.js"
+  },
+  "dependencies": {
+    "micro": "^9.3.4",
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {
+    "ava": "^3.12.1",
+    "bent": "^7.3.10"
+  }
+}
